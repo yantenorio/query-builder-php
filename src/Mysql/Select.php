@@ -14,6 +14,7 @@ class Select
 
     public function getSql(): string 
     {
-        return 'SELECT * FROM pages;';
+        $query = 'SELECT * FROM %s;';
+        return sprintf($query, $this->table);
     }
 }

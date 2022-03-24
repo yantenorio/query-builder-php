@@ -1,1 +1,1 @@
-{"version":1,"defects":{"QueryBuilder\\Mysql\\SelectTest::testSelectWithoutFilter":4},"times":{"QueryBuilder\\Mysql\\SelectTest::testSelectWithoutFilter":0.007}}
+{"version":1,"defects":{"QueryBuilder\\Mysql\\SelectTest::testSelectWithoutFilter":3},"times":{"QueryBuilder\\Mysql\\SelectTest::testSelectWithoutFilter":0.004}}
