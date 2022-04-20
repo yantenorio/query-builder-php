@@ -1,2 +1,4 @@
-<h1>Generic Query Builder</h1>
-<p>Query Builder using PHP to learn TDD concepts</p>
+# Generic Query Builder
+Query Builder using PHP to learn TDD concepts
+
+In progress:construction:
